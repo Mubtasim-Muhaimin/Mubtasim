@@ -1,0 +1,380 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px){
+/* header start  */
+.menu ul li a {
+    padding-left: 7px;
+}
+/* banner start  */
+.banner {
+    padding: 0;
+    text-align: center;
+}
+.b_h_box {
+    padding: 10px 0;
+}
+
+.b_h1 {
+    font-size: 27px;
+    line-height: 40px;
+}
+.s1 {
+    line-height: 40px;
+}
+.b_p_box {
+    padding-bottom: 50px;
+}
+.b_p_box {
+    padding-bottom: 20px;
+}
+.b_img {
+    padding: 0 10px;
+}
+.btn_cm_i {
+    padding: 10px 12px;
+    margin-right: 15px;;
+}
+
+/* skills start  */
+.skills{
+    padding: 10px 0 ;
+}
+.s_item {
+    padding: 28px 10px;
+    margin: 10px 0;
+}
+.s_h2 {
+    font-size: 28px;
+    padding-bottom: 0px;
+}
+.s_h3 {
+    margin-top: 20px;
+}
+/* account start  */
+.account {
+    padding: 10px 0;
+}
+.a_box {
+    padding: 0 20px;
+    margin: 20px 0 0s;
+    text-align: center;
+}
+.a_left_li2{
+    font-size: 20px;
+}
+.a_right_li1 {
+    font-weight: 600;
+    line-height: 20px;
+    margin: 20px 0 0;
+}
+/* abou me  */
+.about_me{
+    text-align: center;
+    padding: 30px 0;
+}
+.am_img {
+    padding: 0 20px;
+}
+/* project start  */
+.project {
+    padding: 30px 0 10px;
+}
+.p_box{
+    padding: 20px 0;
+}
+.p_h2 {
+    font-size: 28px;
+    margin-top: 10px;
+}
+.p_h3 {
+    font-size: 20px;
+    margin: 0 0 10px 0;
+}
+.p_img2 {
+    margin: 10px 0 0 0;
+}
+/* testimonial start  */
+.testimonial {
+    padding: 10px 0;
+}
+.t_box {
+    margin: 20px 20px;
+    padding: 10px;
+
+}
+/* contact start  */
+.contact {
+    padding: 0;
+}
+.btn_c_i{
+    margin: 20px 25px 25px 0;
+}
+.c_h1{
+    font-size: 28px;
+    line-height: 50px;
+    padding: 0 0 0 0;
+}
+.c_p1 {
+    line-height: 24px;
+    margin: 0 0
+}
+.c_h4 {
+    margin: 10px 0 10px;
+    font-size: 25px;
+}
+.c_2h4 {
+    font-size: 25px;
+}
+/* footer start  */
+footer {
+    padding: 20px 0 0;
+}
+.f_text ul li {
+    font-size: 12px;
+}
+
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* header start  */
+.menu ul li a {
+    padding-left: 7px;
+}   
+
+/* banner start  */
+.banner {
+    padding: 40px 0 0 0;
+    text-align: center;
+}
+.b_h_box {
+    padding: 25px 30px;
+}
+.b_h1 {
+    font-size: 36px;
+}
+.b_p_box {
+    padding-bottom: 50px;
+}
+.b_p_box {
+    padding-bottom: 30px;
+}
+.b_img {
+    padding: 0 60px;
+}
+
+/* skils start  */
+.skills {
+    padding: 30px 0;
+}
+.s_h2 {
+    font-size: 36px;;
+    padding-bottom: 0;
+}
+.s_item {
+    margin: 20px 30px;
+}
+/* account start  */
+.account {
+    padding: 30px 0;
+    background-color: var(--blk);
+}
+.a_left_li2{
+    font-size: 20px;
+}
+.a_right_li1 {
+    font-weight: 600;
+    line-height: 20px;
+    margin: 20px 0 0;
+}
+/* about me  */
+.about_me {
+
+    text-align: center;
+}
+.am_img {
+    padding: 0 50px;
+}
+/* project start  */
+.project {
+    padding: 30px 0 10px;
+}
+.p_box{
+    padding: 20px 50px;
+}
+.p_h2 {
+    font-size: 36px;
+    margin-top: 20px;
+}
+.p_h3 {
+    font-size: 28px;
+    margin: 15px 0;
+}
+/* testimonial start  */
+.testimonial {
+    padding: 0;
+}
+.t_box {
+    margin: 25px 100px;
+    padding: 14px;
+
+}
+.t_h2{
+    padding: 10px 0 0;
+}
+/* contact start  */
+.contact {
+    padding: 20px 0;
+}
+.btn_c_i{
+    margin: 20px 25px 25px 0;
+}
+.c_h1{
+    font-size: 36px;
+    padding: 0 100px 0 0;
+}
+.c_h4 {
+    margin: 11px 0;
+}
+.c_p1 {
+    margin:  0
+}
+
+}
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* header start  */
+.menu ul li a {
+    padding-left: 7px;
+}
+/* banner start  */
+.banner {
+    padding: 40px 0 0 0;
+    text-align: center;
+}
+.b_h_box {
+    padding: 30px 120px;
+}
+.b_h1 {
+    font-size: 36px;
+}
+.b_p_box {
+    padding-bottom: 50px;
+}
+.b_img {
+    padding: 0 70px;
+}
+/* skill start  */
+.skills {
+    padding: 30px 0;
+}
+.s_item {
+    margin: 20px 15px;
+}
+
+.s_h2 {
+    font-size: 36px;
+    padding-bottom: 0;
+}
+/* account start  */
+.account {
+    padding: 30px 0;
+    background-color: var(--blk);
+}
+.a_left ul li {
+    font-size: 20px;
+}
+.a_box {
+    padding: 30px 45px;
+}
+/* about me  */
+.about_me {
+    text-align: center;
+    padding: 50px 0;
+}
+.am_img {
+    padding: 0 100px;
+}
+/* projects start  */
+.project {
+    padding: 30px 0 0;
+}
+.p_box {
+    padding: 30px 60px;
+}
+.p_h2 {
+    margin-top: 30px;
+}
+/* testimonial start  */
+.testimonial {
+    padding: 30px 0;
+}
+.t_box {
+    margin: 25px 0;
+}
+/* contact start  */
+.contact {
+    padding: 30px 0;
+}
+.btn_c_i {
+    margin-right: 10px;
+}
+.c_h1 {
+    font-size: 36px;
+    line-height: 50px;
+}
+
+
+}        
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* banner start  */
+.b_h_box {
+    padding: 0 0px 30px 0;
+}
+.b_h1 {
+    font-size: 42px;
+}
+.b_p_box {
+    padding-bottom: 70px;
+}
+
+/* skills start  */
+.s_item {
+    padding: 38px 27px;
+    margin: 20px 0;
+}
+/* about me  */
+.am_h2 {
+    padding-bottom: 20px;
+}
+/* testimonial start  */
+.t_box {
+    margin: 0;
+}
+}    
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    /* banner start  */
+.b_h_box {
+    padding: 0 33px 30px 0;
+}
+.b_p_box {
+    padding-bottom: 70px;
+}
+/* skills strat */
+.s_item {
+    margin: 20px 9px; 
+}
+    
+}  
+
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    
+}    
+
+
